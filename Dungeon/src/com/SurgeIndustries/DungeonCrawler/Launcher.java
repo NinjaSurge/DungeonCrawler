@@ -6,8 +6,7 @@ public class Launcher {
 		System.out.println("Hey There!");
 		System.out.println("Hi there!");
 		System.out.println("Hey!");
-		System.out.println("Testing");
-
+		System.out.println("Test");
 	}
 
 }
