@@ -13,9 +13,9 @@ public class Application extends JFrame {
 	
 	public void initUI () {
 		
-		add(new Game());
+		add(new Board());
 		
-		setSize(250, 200);
+		setSize(800, 600);
 		setTitle("Application");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setLocationRelativeTo(null);

@@ -2,7 +2,7 @@ package com.SurgeIndustries.DungeonCrawler;
 
 import javax.swing.JPanel;
 
-public class Game extends JPanel {
+public class Board extends JPanel {
 
-	public Game() {}
+	public Board() {}
 }
